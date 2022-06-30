@@ -1,0 +1,5 @@
+{
+  "name": "wafiqhoshinova/moonabotdc",
+  "timeout": 10000,
+  "connector": true
+}
